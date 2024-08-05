@@ -42,12 +42,16 @@ In this section, you will find projects related to various machine learning algo
 - Clustering (K-Means, Hierarchical)
 - Dimensionality Reduction (PCA, LDA)
 
-## Deep Learning ( DL )
+# Deep Learning ( DL )
 - This section includes projects and concepts related to deep learning, covering:
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
 - Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)
+- Encoder Decoder
+- Attention
+- Transformer
+- Transfer-Learning
 - Generative Adversarial Networks (GAN)
 
 
