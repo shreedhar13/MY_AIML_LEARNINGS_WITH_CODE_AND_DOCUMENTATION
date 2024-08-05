@@ -25,7 +25,7 @@ This repository is designed to serve as a learning resource for anyone intereste
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/shreedhar13/MY_AIML_LEARNING_WITH_CODE_AND_DOCUMENTATION
+git clone https://github.com/shreedhar13/MY_AIML_LEARNINGS_WITH_CODE_AND_DOCUMENTATION
 ```
 
 # Concepts
