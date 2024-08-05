@@ -6,7 +6,7 @@ Welcome to the **MY AIML LEARNING's WITH CODE AND DOCUMENTATION** repository! Th
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Projects](#projects)
+- [Concepts](#concepts)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Natural Language Processing](#natural-language-processing)
@@ -27,6 +27,8 @@ To get started with this repository, clone it to your local machine using the fo
 ```bash
 git clone https://github.com/shreedhar13/MY_AIML_LEARNING_WITH_CODE_AND_DOCUMENTATION
 ```
+
+# Concepts
 
 # Machine Learning ( ML )
 In this section, you will find projects related to various machine learning algorithms and techniques, including:
