@@ -1,6 +1,6 @@
 # My AIML Learnings
 
-Welcome to the **MY AIML LEARNING's WITH CODE AND DOCUMENTATION** repository! This repository is a comprehensive collection of my projects and concepts related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). It covers everything from the basics to advanced topics, providing a solid foundation and in-depth understanding of these fields.
+Welcome to the **MY AIML LEARNING's WITH CODE AND DOCUMENTATION** repository! This repository is a comprehensive collection of my concepts related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). It covers everything from the basics to advanced topics, providing a solid foundation and in-depth understanding of these fields.
 
 ## Table of Contents
 
