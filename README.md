@@ -34,13 +34,16 @@ git clone https://github.com/shreedhar13/MY_AIML_LEARNING_WITH_CODE_AND_DOCUMENT
 In this section, you will find projects related to various machine learning algorithms and techniques, including:
 
 - Linear Regression
+- Polynomial Regression
 - Logistic Regression
+- Naieve Bayes
 - Decision Trees
 - Random Forests
 - Support Vector Machines
 - Ensemble learning
 - Clustering (K-Means, Hierarchical)
 - Dimensionality Reduction (PCA, LDA)
+- Exploratory Data Analysis (EDA)
 
 # Deep Learning ( DL )
 - This section includes projects and concepts related to deep learning, covering:
