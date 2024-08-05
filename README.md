@@ -1,6 +1,6 @@
-# My Learnings
+# My AIML Learnings
 
-Welcome to the **My Learnings** repository! This repository is a comprehensive collection of my projects and concepts related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). It covers everything from the basics to advanced topics, providing a solid foundation and in-depth understanding of these fields.
+Welcome to the **MY AIML LEARNING's WITH CODE AND DOCUMENTATION** repository! This repository is a comprehensive collection of my projects and concepts related to Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP). It covers everything from the basics to advanced topics, providing a solid foundation and in-depth understanding of these fields.
 
 ## Table of Contents
 
@@ -25,9 +25,9 @@ This repository is designed to serve as a learning resource for anyone intereste
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/shreedhar13/My_Learnings
+git clone https://github.com/shreedhar13/MY_AIML_LEARNING_WITH_CODE_AND_DOCUMENTATION
 ```
-## Projects
+
 # Machine Learning ( ML )
 In this section, you will find projects related to various machine learning algorithms and techniques, including:
 
@@ -36,6 +36,7 @@ In this section, you will find projects related to various machine learning algo
 - Decision Trees
 - Random Forests
 - Support Vector Machines
+- Ensemble learning
 - Clustering (K-Means, Hierarchical)
 - Dimensionality Reduction (PCA, LDA)
 
@@ -51,7 +52,7 @@ In this section, you will find projects related to various machine learning algo
 # Natural Language Processing ( NLP )
 - Explore NLP projects and concepts, such as:
 - Text Preprocessing
-- Word Embeddings
+- Word Embeddings (Word2Vec)
 - Sentiment Analysis
 - Text Classification
 - Language Models (BERT, GPT)
@@ -69,6 +70,7 @@ In this section, you will find projects related to various machine learning algo
 - NLTK
 - SpaCy
 - Transformers
+- gensim
 
 
 
